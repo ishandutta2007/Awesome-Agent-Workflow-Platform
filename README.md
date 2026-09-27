@@ -64,7 +64,7 @@ The **Agentic AI & Workflow Automation Market** is projected to grow from **$5.1
 
 ## 🔓 Open-Source GitHub Projects
 
-*High-growth, community-backed open-source projects for self-hosting, custom multi-agent development, and enterprise workflow execution. Sorted by GitHub star counts (descending).*
+*High-growth, community-backed open-source projects for self-hosting, custom multi-agent development, and enterprise workflow execution. Sorted by GitHub Stars_Counts (descending).*
 
 - **[n8n](https://github.com/n8n-io/n8n)**  
   [![n8n stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
@@ -180,7 +180,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/Edit** entries in `README.md` maintaining standard markdown formatting.
-3. 📌 **Include**: Platform name, GitHub repository or project link, precise feature summary, pricing details (for SaaS), or GitHub stars badge (for Open-Source).
+3. 📌 **Include**: Platform name, GitHub repository or project link, precise feature summary, pricing details (for SaaS), or GitHub_Stars_Badge (for Open-Source).
 4. 🚀 **Submit a Pull Request** with a clear explanation of your additions.
 
 Please review our curated guidelines in [https://github.com/ishandutta2007/Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
